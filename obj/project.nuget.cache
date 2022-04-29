@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7oAJPMhWEpnhmh7XwQsJJYlcva9tO7NYI9xsBLiUa10NWDHOsqE/zhrWOfSWiLSV3EZIFOpWiSMMoLNrIjWCIw==",
+  "dgSpecHash": "5Tq53jTsrXeLKdZs+m6SaRZOVOIfuNYmrL9Dpo6crTsYsWssGIhfgJSSsse+kYD4O4PtULwiiqyCEf+ctNDWPA==",
   "success": true,
   "projectFilePath": "/home/vinicius/Documentos/git/dotnet/FilmesAPI/FilmesAPI.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.analyzers/6.0.4/microsoft.entityframeworkcore.analyzers.6.0.4.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.design/6.0.4/microsoft.entityframeworkcore.design.6.0.4.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.relational/6.0.4/microsoft.entityframeworkcore.relational.6.0.4.nupkg.sha512",
-    "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.tools/6.0.4/microsoft.entityframeworkcore.tools.6.0.4.nupkg.sha512",
+    "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.tools/5.0.10/microsoft.entityframeworkcore.tools.5.0.10.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.caching.abstractions/6.0.0/microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.caching.memory/6.0.1/microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
@@ -31,6 +31,8 @@
     "/home/vinicius/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "/home/vinicius/.nuget/packages/mysql.data/8.0.29/mysql.data.8.0.29.nupkg.sha512",
     "/home/vinicius/.nuget/packages/mysql.entityframeworkcore/6.0.1/mysql.entityframeworkcore.6.0.1.nupkg.sha512",
+    "/home/vinicius/.nuget/packages/mysqlconnector/2.1.2/mysqlconnector.2.1.2.nupkg.sha512",
+    "/home/vinicius/.nuget/packages/pomelo.entityframeworkcore.mysql/6.0.1/pomelo.entityframeworkcore.mysql.6.0.1.nupkg.sha512",
     "/home/vinicius/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "/home/vinicius/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "/home/vinicius/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
