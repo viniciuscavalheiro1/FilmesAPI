@@ -4,7 +4,7 @@ using FilmesAPI.Models;
 namespace FilmesAPI.Controllers
 {
     [ApiController]
-    [Route("Filmes")]
+    [Route("controller")]
     public class FilmeController : ControllerBase
     {
         private static List<Filme> filmes = new List<Filme>();
